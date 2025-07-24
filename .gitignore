@@ -92,4 +92,7 @@ jspm_packages/
 
 # Temporary folders
 tmp/
-temp/ 
+temp/
+
+# Reference files (not part of our project)
+Yuga Labs Files/ 
